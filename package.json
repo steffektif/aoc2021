@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^17.0.37",
     "tslint": "^5.12.1",
     "typescript": "^3.9.10"
   },
